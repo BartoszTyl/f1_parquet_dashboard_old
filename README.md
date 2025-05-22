@@ -1,6 +1,6 @@
-# 🏎️ *"Old"* Formula Stats - Dashboard
+# 🏎️ F1 Parquet Dashboard
 
-**Formula Stats** is a Streamlit-based interactive dashboard for exploring, visualising, and analysing Formula 1 data from 2018 onwards. Whether you're a casual fan or a strategy nerd, this tool simplifies F1 data analytics using preloaded datasets and dynamic plotting tools.
+**F1 Parquet Dashboard** is a Streamlit-based interactive dashboard for exploring, visualising, and analysing Formula 1 data from 2018 onwards. Whether you're a casual fan or a strategy nerd, this tool simplifies F1 data analytics using preloaded datasets and dynamic plotting tools.
 
 ---
 
@@ -100,4 +100,4 @@ MIT License – feel free to use, adapt, and expand this project.
 ---
 
 ## 🏁 Notes
-This repo and app is not longer maintained and will be soon replaced with a new version of Formula Stats (Django-based web app). It is currently in early development, alpha version will be released soon!
+This project is not longer maintained and will be soon replaced with a new version of Formula Stats (Django-based web app). It is currently in early development, alpha version will be released soon!
