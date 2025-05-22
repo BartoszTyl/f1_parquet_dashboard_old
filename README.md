@@ -101,3 +101,9 @@ MIT License – feel free to use, adapt, and expand this project.
 
 ## 🏁 Notes
 This project is not longer maintained and will be soon replaced with a new version. Formula Stats (Django-based web app) is currently in development, open alpha version will be released soon!
+
+---
+## ‼️ Disclaimer
+F1 Parquet Dashboard is an independent platform and is not affiliated with, endorsed by, or in any way officially connected to Formula 1, F1, the FIA (Fédération Internationale de l'Automobile), or any other Formula 1-related entities.
+All trademarks, logos, team names, driver names are the property of their respective owners.
+Formula Stats provides data and analysis based on publicly available information and does not represent any official Formula 1 organization.
