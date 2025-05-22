@@ -100,4 +100,4 @@ MIT License – feel free to use, adapt, and expand this project.
 ---
 
 ## 🏁 Notes
-This project is not longer maintained and will be soon replaced with a new version of Formula Stats (Django-based web app). It is currently in early development, alpha version will be released soon!
+This project is not longer maintained and will be soon replaced with a new version. Formula Stats (Django-based web app) is currently in development, open alpha version will be released soon!
