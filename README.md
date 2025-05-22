@@ -105,7 +105,7 @@ Bartosz Tylczynski – UoL Computer Science student & Formula 1 strategy enthusi
 
 ## 📄 License
 
-MIT License – feel free to use, adapt, and expand this project.
+MIT License – feel free to use, adapt, and expand this project. Credit required.
 
 
 
