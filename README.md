@@ -92,7 +92,7 @@ You must also generate or scrape `f1_drivers_wiki_YYYY-MM-DD.parquet` for driver
 
 ## ✍🏻 Acknowledgements ##
 
-This project uses data provided by the FastF1 library, created and maintained by Theo Ehrlich. Huge thanks to the FastF1 community for making detailed F1 data accessible for analysis and visualization.
+This project uses data provided by the FastF1 library, created and maintained by Theo Ehrlich. Huge thanks to the FastF1 community for making detailed F1 data accessible for analysis and visualisation.
 
 
 
