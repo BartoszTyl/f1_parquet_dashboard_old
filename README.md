@@ -20,7 +20,7 @@
 ## 📦 Project Structure
 
 ```
-├── dashboard_app.py                      # Main Streamlit app
+├── dashboard_app.py           # Main Streamlit app
 ├── plotting.py                # Plotting functions
 ├── scrape.py                  # Scraping functions (Wikipedia)
 ├── /f1_data                   # Cached parquet files (schedule, telemetry, laps, results, weather)
