@@ -116,4 +116,4 @@ This project is not longer maintained and will be soon replaced with a new versi
 ## ‼️ Disclaimer
 F1 Parquet Dashboard is an independent platform and is not affiliated with, endorsed by, or in any way officially connected to Formula 1, F1, the FIA (Fédération Internationale de l'Automobile), or any other Formula 1-related entities.
 All trademarks, logos, team names, driver names are the property of their respective owners.
-Formula Stats provides data and analysis based on publicly available information and does not represent any official Formula 1 organization.
+F1 Parquet Dashboard provides data and analysis based on publicly available information and does not represent any official Formula 1 organization.
